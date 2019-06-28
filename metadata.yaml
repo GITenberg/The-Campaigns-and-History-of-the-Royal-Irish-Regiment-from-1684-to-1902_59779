@@ -1,11 +1,16 @@
 _repo: The-Campaigns-and-History-of-the-Royal-Irish-Regiment-from-1684-to-1902_59779
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59779-h/images/cover.jpg
 creator:
   author:
     agent_name: Gretton, G. le M. (George le Mesurier)
     gutenberg_agent_id: '50626'
     url: http://www.gutenberg.org/2009/agents/50626
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59779#The-Campaigns-and-History-of-the-Royal-Irish-Regiment-from-1684-to-1902
 gutenberg_issued: '2019-06-19'
 gutenberg_type: Text
 identifiers:
